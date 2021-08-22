@@ -1,4 +1,4 @@
-# An-evolutionary-algorithm-for-feed-forward-neural-networks-optimization-WCCS14-Conf-results
+# An-evolutionary-algorithm-for-feed-forward-neural-networks-optimization---WCCS14-Conf-results
 
 Y. Safi and A. Bouroumi, "An evolutionary algorithm for feed-forward neural networks optimization," in Complex Systems (WCCS), 2014 Second World IEEE Conference on, Agadir 2014, pp. 475-480.
 
